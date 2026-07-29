@@ -1,0 +1,19 @@
+{
+  "name": "noor-ut-tajweed",
+  "displayName": "Noor-ut-Tajweed",
+  "version": "1.0.0",
+  "description": "Interactive Tajweed learning app (Cordova/Android)",
+  "private": true,
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-android": "^15.1.0",
+    "cordova-plugin-whitelist": "^1.3.5"
+  }
+}
